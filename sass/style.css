@@ -1,0 +1,25 @@
+.site_header {
+  max-height: 145px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 120px;
+}
+.site_header_logo {
+  margin-top: 20px;
+}
+.site_header_logo_img {
+  height: 55px;
+  width: 55px;
+}
+.site_header_list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  margin-top: 42px;
+}
+.site_header_list_item {
+  color: #fff;
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
